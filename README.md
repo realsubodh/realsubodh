@@ -14,6 +14,7 @@ My name is Subodh Singh.<br>I'm a second-year undergrad at Lovely Professional U
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=realsubodh&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+[![An image of @realsubodh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/realsubodh)](https://holopin.io/@realsubodh)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
