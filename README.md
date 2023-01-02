@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-My name is Subodh Singh.<br>I'm a second-year undergrad at Lovely Professional University, Phagwara-Punjab.<br>I'm passionate about coding and creating new cool stuff that can solve real-world problems.<br>Right now I work mostly on Frontend Development by using HTML5, CSS, JS, and Bootstrap.<br>I'm currently learning React Js.<br>I'm looking forward to collaborating on the projects of Google Summer of Code(GSoC).<br>Not only GSoC, but I also love to collaborate on other projects as well.<br>If you need any help regarding technical stuff like Frontend Dev, coding and even you need any guidance regarding other academic things, Please feel free to ask, I love to help you.<br>Fun Fact :- Still learning.
+📍 My name is Subodh Singh.<br>📍 I'm a second-year undergrad at Lovely Professional University, Phagwara-Punjab📚<br>📍 I'm passionate about coding and creating new cool stuff that can solve real-world problems💻<br>📍 Right now I work mostly on Frontend Development by using HTML5, CSS, JS, and Bootstrap📑<br>📍 I'm currently learning React Js.<br>📍 I'm looking forward to collaborating on the projects of Google Summer of Code(GSoC)🚀<br>📍 Not only GSoC, but I also love to collaborate on other projects as well.<br>📍 If you need any help regarding technical stuff like Frontend Dev, coding and even you need any guidance regarding other academic things, Please feel free to ask, I love to help you🤠<br>📍 Fun Fact :- Still learning.
 
 
 ## 🌐 Socials:
