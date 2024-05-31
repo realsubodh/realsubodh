@@ -4,7 +4,23 @@
 
 
 # 💫 About Me:
-📍 My name is Subodh Singh.<br>📍 I'm a second-year undergrad at Lovely Professional University, Phagwara-Punjab📚<br>📍 I'm passionate about coding and creating new cool stuff that can solve real-world problems💻<br>📍 Right now I work mostly on Frontend Development by using HTML5, CSS, JS, and Bootstrap📑<br>📍 I'm currently learning React Js.<br>📍 I'm looking forward to collaborating on the projects of Google Summer of Code(GSoC)🚀<br>📍 Not only GSoC, but I also love to collaborate on other projects as well.<br>📍 If you need any help regarding technical stuff like Frontend Dev, coding and even you need any guidance regarding other academic things, Please feel free to ask, I love to help you🤠<br>📍 Fun Fact :- Still learning.
+Hi there! I'm Subodh, a third-year Computer Science Engineering undergrad at Lovely Professional University (LPU) and currently a Summer Engineering Intern at Agnirva, powered by ISRO. My journey in technology is fueled by a passion for solving complex problems and creating innovative solutions.
+
+What Makes Me Different 🚀
+
+Exceptional Problem Solver: With a strong command of Data Structures and Algorithms (DSA), I excel on competitive coding platforms like LeetCode and HackerRank. I love tackling challenging problems and optimizing solutions for efficiency.
+
+Web Development Enthusiast: I have a solid foundation in frontend web development and design. My projects demonstrate a keen eye for aesthetics coupled with robust functionality, ensuring seamless user experiences.
+
+Hands-on Experience at ISRO: My internship at Agnirva, under the aegis of ISRO, has providing me with invaluable exposure to cutting-edge technologies and real-world applications. This experience has honed my skills in both collaborative and independent project environments.
+
+Continuous Learner: I believe in constantly upgrading my skill set. Whether it's exploring new frameworks, diving into backend development, or understanding the intricacies of DevOps, I'm always eager to learn and grow.
+
+🌍  I'm based in Varanasi, Uttar Pradesh, India
+✉️  You can contact me at subodhsingh0021@gmail.com
+🧠  I'm learning REACT JS | MATERIAL UI.
+🤝  I'm open to collaborating on Frontend Projects | UI Designing | Startup Idea.
+⚡  I'm Batman ... Don't tell anybody!
 
 
 ## 🌐 Socials:
