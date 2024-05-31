@@ -16,10 +16,14 @@ Hands-on Experience at ISRO: My internship at Agnirva, under the aegis of ISRO, 
 
 Continuous Learner: I believe in constantly upgrading my skill set. Whether it's exploring new frameworks, diving into backend development, or understanding the intricacies of DevOps, I'm always eager to learn and grow.
 
-🌍  I'm based in Varanasi, Uttar Pradesh, India
+🌍  I'm based in Varanasi, Uttar Pradesh, India 
+
 ✉️  You can contact me at subodhsingh0021@gmail.com
+
 🧠  I'm learning REACT JS | MATERIAL UI.
+
 🤝  I'm open to collaborating on Frontend Projects | UI Designing | Startup Idea.
+
 ⚡  I'm Batman ... Don't tell anybody!
 
 
