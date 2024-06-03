@@ -43,12 +43,14 @@ Continuous Learner: I believe in constantly upgrading my skill set. Whether it's
 
 [![An image of @realsubodh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/realsubodh)](https://holopin.io/@realsubodh)
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
 ---
-  
+  ### 🐍 Watch Snake eating my contribution :
 
 
 <!---
