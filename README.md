@@ -11,7 +11,6 @@ Hi there! I'm Subodh, a final-year Computer Science Engineering undergrad at Lov
 
 🌍  I'm based in Varanasi, Uttar Pradesh, India 
 - ✉️  You can contact me at subodhsingh0021@gmail.com
-- 🧠  I'm learning REACT JS | MATERIAL UI.
 - 🤝  I'm open to collaborating on Frontend Projects | UI Designing | Startup Idea.
 - ⚡  I'm Batman ... Don't tell anybody!
 
