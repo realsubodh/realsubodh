@@ -1,3 +1,13 @@
+<div align="center">
+  <img width="809" alt="Screenshot 2025-06-01 at 9 37 28 AM" src="https://github.com/user-attachments/assets/4803146c-f90d-464a-a3cf-d63ff822e80e" />
+  <h3>Subodh Singh</h3>
+  <p>
+    The engineer building sharp, user-first products with real-world impact.
+  </p>
+
+</div>
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
      <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50">&nbsp;
