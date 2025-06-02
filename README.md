@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="809" alt="Screenshot 2025-06-01 at 9 37 28 AM" src="https://github.com/user-attachments/assets/4803146c-f90d-464a-a3cf-d63ff822e80e" />
+  <img width="895" alt="Screenshot 2025-06-02 at 2 10 15 PM" src="https://github.com/user-attachments/assets/4f92cfdf-89fb-4fc6-a29b-896898ed33ea" />
   <h3>Subodh Singh</h3>
   <p>
     The engineer building sharp, user-first products with real-world impact.
