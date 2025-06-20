@@ -1,5 +1,9 @@
 <div align="center">
-  <img width="895" alt="Screenshot 2025-06-02 at 2 10 15 PM" src="https://github.com/user-attachments/assets/4f92cfdf-89fb-4fc6-a29b-896898ed33ea" />
+
+![](https://nirzak-streak-stats.vercel.app/?user=realsubodh&theme=default_repocard&hide_border=true)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=realsubodh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=realsubodh&icon=4&color=1)](https://visitcount.itsvg.in)
   <h3>Subodh Singh</h3>
   <p>
     The engineer building sharp, user-first products with real-world impact.
